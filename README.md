@@ -1,4 +1,4 @@
-![Screenshot](/Sanmao_SMTP_Cracker_1.75.png)
+![Screenshot](/Email Extractor.png)
 
 <h2>🎬 Demo Video</h2>
 <p>
