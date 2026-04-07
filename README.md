@@ -1,3 +1,5 @@
+Large File Email-Phone-URL Extractor scans massive text files—up to hundreds of gigabytes—and pulls out every email address, phone number or URL you need in seconds.
+
 ![Screenshot](/Email_Extractor.png)
 
 <h2>🎬 Demo Video</h2>
