@@ -1,4 +1,4 @@
-![Screenshot](/Email Extractor.png)
+![Screenshot](/Email_Extractor.png)
 
 <h2>🎬 Demo Video</h2>
 <p>
